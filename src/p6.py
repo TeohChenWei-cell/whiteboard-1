@@ -16,6 +16,6 @@ def max_occurring_char(s):
 
     return max_char, max_count
 
-text = "testing." // change this to any word
+text = "testing." #change this to any word
 char, count = max_occurring_char(text)
 print(f"Character: '{char}', Occurrence: {count}")
