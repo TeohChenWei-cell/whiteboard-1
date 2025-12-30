@@ -11,4 +11,4 @@ def generate_fibonacci(count):
     for i in range(count):
         print(fibonacci(i), end=", ")
 
-generateFibonacci(100) //type how many you fibonacci you wanted to generate
+generateFibonacci(100) #type how many you fibonacci you wanted to generate
